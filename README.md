@@ -1,1 +1,2 @@
 # Netflix_Clone_Website
+A Netflix clone built using HTML, CSS, and JavaScript, replicating the core features of the popular streaming platform. This project includes a responsive layout, dynamic content display, and smooth navigation to provide a similar user experience. It showcases the ability to create a media-centric website with a visually appealing interface, including interactive elements like movie/carousel sliders and user-friendly design, perfect for demonstrating front-end development skills.
